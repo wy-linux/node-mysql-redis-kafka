@@ -1,8 +1,8 @@
-### Node部分工具套件的理解与运用
+### Node后端开发相关技术套件的理解与运用
 
 - koa
-- egg
 - nest
 - mysql
 - redis
+- kafka
 - ......
