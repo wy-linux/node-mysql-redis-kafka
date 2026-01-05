@@ -1,0 +1,10 @@
+packages:
+  - 'Controllers'
+  - 'Exception-Filters'
+  - 'Guards'
+  - 'Interceptors'
+  - 'Middleware'
+  - 'Modules'
+  - 'Pipes'
+  - 'Providers'
+  - 'RBAC-TypeORM'
